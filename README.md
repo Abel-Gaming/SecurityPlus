@@ -3,6 +3,12 @@ Security Plus is a plugin that allows players of your FiveM server to become sec
 <br>
 ![Security+](https://i.imgur.com/cElRyrE.png)
 <br>
+## Dependencies
+<ul>
+<li>nh-context: https://github.com/nerohiro/nh-context</li>
+<li>nh-keyboard: https://github.com/nerohiro/nh-keyboard</li>
+</ul>
+
 ## Random Patrol Events (Planned)
 - [x] Person loitering - a person is loitering on the property. Find them and remove them.
 - [ ] Customer refusing to pay
